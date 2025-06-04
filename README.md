@@ -1,4 +1,4 @@
-# 🛠️ Laravel Project Manager
+# 🛠️ Tasks (Tarefas)
 
 Um sistema simples de gerenciamento de projetos, desenvolvido com Laravel.  
 Este projeto foi criado para fins de aprendizado e portfólio, com foco em boas práticas de backend (RESTful) e frontend com Blade + Tailwind CSS.
