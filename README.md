@@ -32,8 +32,8 @@ Este projeto foi criado para fins de aprendizado e portfólio, com foco em boas 
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/guto-fn/team_tasks.git
-cd team_tasks
+git clone https://github.com/guto-fn/tasks.git
+cd tasks
 
 composer install
 npm install && npm run dev
